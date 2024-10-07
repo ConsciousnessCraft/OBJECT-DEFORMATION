@@ -13,7 +13,6 @@ To compile and run the project, follow these steps:
 - **Initial View**: pinchement ( tmin=0 , tmax=1) + shader  ( gooch ).
 - **twist Press 'c'**: you will see deformation with this parameters ( tmin=-1 , tmax=1, thethamax=2 * PI) + shader( gooch).
 - **vortex Press'd'**: you will see deformation with this parameteers ( tmin=-1 , tmax=1, thethamax=2 * PI) + shader( gooch ).
-- **Move Vectors**: Use U, u, V, and v to move the tangent and normal vectors along the surface.
 - **Return to Initial View**:  Press 'C.
 
 - to increase/reduce tmin press 't','T'.
@@ -26,6 +25,15 @@ To compile and run the project, follow these steps:
 
 
 ### Original Object
-![image](https://github.com/user-attachments/assets/305e380b-d348-44a3-a5ab-5c5170ef28d4)
+![image](https://github.com/user-attachments/assets/ffe47e38-7789-43d5-a2a8-45a010feb13c)
 
 ### Pinchement deformation
+![image](https://github.com/user-attachments/assets/91bce824-6a57-4a3c-9768-b89a9920a0c7)
+
+### Twist deformation
+![image](https://github.com/user-attachments/assets/1da39321-5d7e-4855-82b3-324ad1ab9d3a)
+
+### Twist deformation
+![image](https://github.com/user-attachments/assets/72a9005a-e29c-4ae3-9eec-10f77e6dfa56)
+
+
