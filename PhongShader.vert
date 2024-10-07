@@ -1,4 +1,4 @@
-#version 450
+#version 410
 #define PI 3.1415926538
 
 uniform mat4 MVP;//recuperation de la matrice mvp

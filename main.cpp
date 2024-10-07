@@ -299,7 +299,7 @@ int main(int argc, char** argv)
 
     // construction des VBO a partir des tableaux du cube deja construit
     genereVBO();
-    initTexture();
+    //initTexture();
 
 
     /* enregistrement des fonctions de rappel */

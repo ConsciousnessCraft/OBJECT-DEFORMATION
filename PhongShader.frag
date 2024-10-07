@@ -1,4 +1,4 @@
-#version 450
+#version 410
 
 uniform vec3 cameraPosition;
 uniform mat4 MVP;//recuperation de la matrice mvp
