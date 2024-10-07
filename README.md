@@ -16,9 +16,10 @@ To compile and run the project, follow these steps:
 - **Move Vectors**: Use U, u, V, and v to move the tangent and normal vectors along the surface.
 - **Return to Initial View**:  Press 'C.
 
-to increase/reduce tmin press 't','T' 
-to increase/reduce tmax press 'n','N'
-to increase/reduce thetamax press 'b','B'
+- to increase/reduce tmin press 't','T'.
+- to increase/reduce tmax press 'n','N'.
+- to increase/reduce thetamax press 'b','B'
+
 
 to change between toon shader/gooch  press the button 'm' for both.
 activate/deactivate, silhouette : Press 'M'.
