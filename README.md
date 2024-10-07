@@ -21,6 +21,11 @@ To compile and run the project, follow these steps:
 - to increase/reduce thetamax press 'b','B'
 
 
-to change between toon shader/gooch  press the button 'm' for both.
-activate/deactivate, silhouette : Press 'M'.
+- to change between toon shader/gooch  press the button 'm' for both.
+- activate/deactivate, silhouette : Press 'M'.
 
+
+### Original Object
+![image](https://github.com/user-attachments/assets/305e380b-d348-44a3-a5ab-5c5170ef28d4)
+
+### Pinchement deformation
