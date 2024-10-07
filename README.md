@@ -33,7 +33,7 @@ To compile and run the project, follow these steps:
 ### Twist deformation
 ![image](https://github.com/user-attachments/assets/1da39321-5d7e-4855-82b3-324ad1ab9d3a)
 
-### Twist deformation
+### Vortex deformation
 ![image](https://github.com/user-attachments/assets/72a9005a-e29c-4ae3-9eec-10f77e6dfa56)
 
 
